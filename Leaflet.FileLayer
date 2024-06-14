@@ -1,0 +1,1 @@
+O Leaflet FileLayer e uma forma de abrir um arquivo dos tipos GeoJSON, JSON, GPX, KML em uma camada de um mapa, sem precisar de um servidor usando o HTML File Reader Api.
